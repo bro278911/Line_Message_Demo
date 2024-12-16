@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LineMessageTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F4D037-8994-4DF2-8DE3-B0D1BBC3FD59}|LineMessageTest\\LineMessageTest.csproj|c:\\users\\user\\source\\repos\\linemessagetest\\linemessagetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F4D037-8994-4DF2-8DE3-B0D1BBC3FD59}|LineMessageTest\\LineMessageTest.csproj|solutionrelative:linemessagetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F4D037-8994-4DF2-8DE3-B0D1BBC3FD59}|LineMessageTest\\LineMessageTest.csproj|C:\\Users\\User\\source\\repos\\LineMessageTest\\linemessagetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35F4D037-8994-4DF2-8DE3-B0D1BBC3FD59}|LineMessageTest\\LineMessageTest.csproj|solutionrelative:linemessagetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LineMessageTest\\LineMessageTest\\Form1.cs",
+              "RelativeDocumentMoniker": "LineMessageTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LineMessageTest\\LineMessageTest\\Form1.cs",
+              "RelativeToolTip": "LineMessageTest\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:01:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LineMessageTest\\LineMessageTest\\Form1.cs",
+              "RelativeDocumentMoniker": "LineMessageTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LineMessageTest\\LineMessageTest\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LineMessageTest\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:01:03.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
