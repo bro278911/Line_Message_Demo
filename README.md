@@ -1,6 +1,6 @@
 ## Telegram API介紹<br />
 
-因應LINE宣布將於2025年3月31日結束LINE Notify服務，故因此需改用Telegram API。<br />
+因應LINE宣布將於2025年3月31日結束LINE Notify服務，故因此需改用收費的Line Message API(但有免費方案供測試)，其實這個功能就是Line Bot。<br />
 
 ## Telegram API建置工具<br />
 * https://webhook.site/ 可以暫時免費取得webhook網址，可以用來取得UserID或GroupID<br />
